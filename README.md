@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/smolespi/Hibiki)](https://repl.it/github/smolespi/Hibiki)
 # Hibiki
 
 [![Build](https://img.shields.io/github/workflow/status/smolespi/Hibiki/Hibiki)](https://github.com/smolespi/Hibiki/actions?query=workflow%3AHibiki)
